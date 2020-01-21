@@ -1,4 +1,4 @@
-# Formation git
+# Formation git Orange 01/2020
 
 Git permet de sauvegarder des fichiers texte manuellement.
 
