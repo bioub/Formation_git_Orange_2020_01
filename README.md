@@ -10,3 +10,6 @@ git permet de sauvegarder des fichiers texte manuellement
 * git add
 * git commit
 * git stage
+* git status
+* git log
+* git checkout
