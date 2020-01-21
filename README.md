@@ -1,6 +1,6 @@
 # Formation git
 
-Git permet de sauvegarder des fichiers texte manuellement
+Git permet de sauvegarder des fichiers texte manuellement.
 
 ## Commandes de bases
 
