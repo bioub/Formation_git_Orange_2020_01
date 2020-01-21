@@ -13,3 +13,9 @@ Git permet de sauvegarder des fichiers texte manuellement.
 * git status
 * git log
 * git checkout
+
+## Commandes remotes
+
+* git pull
+* git fetch
+* git push
