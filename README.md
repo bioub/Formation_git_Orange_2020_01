@@ -6,7 +6,7 @@ git permet de sauvegarder des fichiers texte manuellement
 
 * git config
 * git help
-* git init
+* git status
 * git add
 * git commit
 * git stage
